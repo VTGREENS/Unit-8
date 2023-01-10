@@ -1,0 +1,66 @@
+
+[
+    {
+      "id": 1,
+      "name": "Kismayo Kitchen",
+      "cuisine": "Somali-Inspired",
+      "address": "505 Riverside Ave., Burlington, VT 05401",
+      "latitudeAndLongitude": {
+        "latitude": 44.48973222144018, 
+        "longitude": -73.20216301299487  
+      },
+      "phoneNumber": "1-802-448-3032",
+      "hours": {
+        "Sunday": " 12:00 - 8:00" ,
+        "Monday": " Closed",
+        "Tuesday": " 2:00 - 8:00",
+        "Wednesday": " 11:30 - 8:00",
+        "Thursday": " 11:30 - 8:00",
+        "Friday": " 2:15 - 8:00",
+        "Saturday": " 12:00 - 8:00"
+      },
+      "about": "Down-to-earth restaurant serving eclectic Somali dishes & drinks in a quaint establishment."
+    },
+    {
+      "id": 2,
+      "name": "Restaurant Poco",
+      "cuisine": "American",
+      "address": "Main Street, Burlington, VT",
+      "latitudeAndLongitude": {
+        "latitude": 44.47577462311658, 
+        "longitude": -73.21753342927417
+      },
+      "phoneNumber": "1-802-497-2587",
+      "hours": {
+        "Sunday": "Closed",
+        "Monday": "Closed",
+        "Tuesday": " 5:30-9:00",
+        "Wednesday": " 5:30-9:00",
+        "Thursday": " 5:30-9:00",
+        "Friday": " 5:30-10:00",
+        "Saturday": " 5:30-10:00"
+      },
+      "about": "Restaurant Poco is small plate restaurant and bar in Burlington Vermont, offering selectively sourced ingredients, beer, and wine."
+    },
+    {
+      "id": 3,
+      "name": "Café Saint Paul",
+      "cuisine": "American",
+      "address": "196 St Paul St, Burlington, VT 05401",
+      "latitudeAndLongitude": {
+        "latitude": 44.474040908339724, 
+        "longitude": -73.21356823882273
+      },
+      "phoneNumber": "1-802-239-1774",
+      "hours": {
+        "Sunday": " 8:00 - 4:00",
+        "Monday": " 8:00 - 4:00",
+        "Tuesday": " 8:00 - 4:00",
+        "Wednesday": " 8:00 - 4:00",
+        "Thursday": " 7:00 - 5:00",
+        "Friday": " 7:00 - 5:00",
+        "Saturday": " 8:00 – 4:00"
+      },
+      "about": "New Café/Deli serving up daily in house made breakfast and lunch in Burlington’s South End."
+    }  
+  ]
